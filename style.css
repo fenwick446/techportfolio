@@ -62,22 +62,35 @@ div {
     font-size: 40px;
 }
 
-.text4 { 
-font-size: 2.5em;
+.text17 { 
+font-size: 3em}
+
+.text4 {
+    font-size: 2.5em;
 }
 
 .text6 {
-    font-size:40px; 
+    font-size: 40px;
 }
 
 .text7 {
     font-size: 30px
-    
 }
-.text8 { 
+
+.text8 {
     font-size: 30px
 }
+
+.text10 { 
+font-size: 3em}
 
 .p {
     font-size: 3em
 }
+
+.text11 {
+    font-size: 35px
+}
+
+.p { 
+font-size: 3em}
